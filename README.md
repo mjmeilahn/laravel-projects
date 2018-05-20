@@ -1,2 +1,4 @@
-# laravel-projects
-One repo that contains a list of my Laravel pet projects
+# LARAVEL 
+One repo that contains a list of my Laravel pet projects.
+
+1. Data Sanitation, Validation, Encryption and Escaped Output
