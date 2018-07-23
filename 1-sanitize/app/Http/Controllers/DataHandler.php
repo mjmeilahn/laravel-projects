@@ -28,8 +28,8 @@ class DataHandler extends Controller
 
         // Show output
         return view('welcome')
-            ->with('encryption', $encryption)
-            ->with('cleaned', $cleaned);
+                    ->with('encryption', $encryption)
+                    ->with('cleaned', $cleaned);
     }
 }
 
